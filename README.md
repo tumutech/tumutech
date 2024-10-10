@@ -4,7 +4,7 @@
   <img src="https://profile-counter.glitch.me/tumutech/count.svg" />
 </p>
 
-- 🔭 I’m currently a Web3 Software developer building projects using Starknet-React, Cairo, Solidity and Dart.
+- 🔭 I’m a Software engineer with experience in AI, Mobile and Web applications development and Web3 Software developer (building projects using Starknet-React, Cairo, Solidity and Dart).
 - I’m currently learning how to build scalable smart contracts on Starknet.
 - 👯 I’m looking to collaborate on open-source projects especially good first issues on Javascript, blockchain development, PHP, Python, React.js, HTML5, CSS3, Bootstrap, and React-Native.
 
