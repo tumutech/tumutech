@@ -10,7 +10,6 @@
 
 [![Tumusiime Francis's github stats](https://github-readme-stats.vercel.app/api?username=tumutech&show_icons=true&theme=black)](https://github.com/tumutech/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tumutech&show_icons=true&theme=black&layout=compact)](https://github.com/tumutech/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tumutech&theme=dark)](https://git.io/streak-stats)
-[![committers.top badge](https://user-badge.committers.top/uganda/tumutech.svg)](https://user-badge.committers.top/uganda/tumutech)
 <!--
 **tumutech/tumutech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
